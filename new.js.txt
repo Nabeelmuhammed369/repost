@@ -1,0 +1,6 @@
+$ git commit -m "msg"
+[master (root-commit) c056638] msg
+ 1 file changed, 1 insertion(+)
+ create mode 100644 sample.js.txt
+
+Admin@DESKTOP-QI6H2EA MINGW64 ~/Desktop/ebay (master)
