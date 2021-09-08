@@ -1,0 +1,16 @@
+h1{
+    color: maroon;
+}
+div{
+    width: 400px;
+    height: 300px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: mediumblue;
+    float: left;
+
+}
+img{
+    width: 200px;
+    
+}
